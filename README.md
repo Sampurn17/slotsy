@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/HeatBlastee/Slotsy.git
+git clone https://github.com/Sampurn17/Slotsy.git
 cd Slotsy
 
 # Install dependencies
@@ -118,15 +118,6 @@ Slotsy/
 
 Open to contributions! Submit a PR, create an issue, or suggest ideas to improve Slotsy.
 
----
-
-## 📬 Contact
-
-**Mann Patel**  
-🔗 [GitHub](https://github.com/HeatBlastee)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mann-patel-321aa8289/)  
-
----
 
 ## ⭐️ Show Your Support
 
